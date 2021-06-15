@@ -1,4 +1,4 @@
-### Hi!, I'm Esad 👋
+### Hi! I'm Esad 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/Muhammed%20Esad%20C%C3%B6mert-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-esad-c%C3%B6mert-3358281b5/ "Connect on Linkedin")
 [![Twitter Badge](https://img.shields.io/badge/ComertEsad-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=comertesad "Follow on Twitter")
