@@ -1,6 +1,8 @@
 ### Hi there, I'm Esad 👋
 
-https://www.linkedin.com/in/muhammed-esad-c%C3%B6mert-3358281b5/ https://twitter.com/ComertEsad
+![Twitter URL](https://img.shields.io/twitter/url?label=ComertEsad&style=social&url=https%3A%2F%2Ftwitter.com%2FComertEsad)
+
+
 
 
 
