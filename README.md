@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Esad 👋
+
+https://www.linkedin.com/in/muhammed-esad-c%C3%B6mert-3358281b5/ https://twitter.com/ComertEsad
+
+
+
 
 <!--
 **esadcmrt/esadcmrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
