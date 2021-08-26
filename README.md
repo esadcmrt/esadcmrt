@@ -1,10 +1,9 @@
-### Hi! I'm Esad 👋
+### Hi! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/Muhammed%20Esad%20C%C3%B6mert-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedesadcomert/ "Connect on Linkedin")
 [![Twitter Badge](https://img.shields.io/badge/ComertEsad-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=comertesad "Follow on Twitter")
 
-I'm currently a 4th-grade computer engineering student at Konya Technical University. Also, I'm interested in mobile programming.
-
+I am currently a computer engineering student at Konya Technical University. Also, I am interested in Android development.
 
 
 <!--
