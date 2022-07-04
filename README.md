@@ -5,7 +5,7 @@
 
 I am working as Android Developer Intern at Mobillium. I'm currently a computer engineering student at Konya Technical University. I'm passionate about Android development with Kotlin.
 
-- 🔭 I’m currently working on ![MovieApp](https://github.com/Junior-Kekos/MovieApp)
+- 🔭 I’m currently working on [MovieApp](https://github.com/Junior-Kekos/MovieApp)
 - 🌱 I’m currently learning Jetpack Compose
 - 💬 Ask me about Android development
 
