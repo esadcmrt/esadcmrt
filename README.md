@@ -7,7 +7,7 @@
 I'm;
 - working as Android Developer Intern at Mobillium,
 - currently computer engineering student at Konya Technical University,
-- currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose).
+- currently learning [Flutter](https://flutter.dev/).
 
 ## 🛠 Tech Stack
 
