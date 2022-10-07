@@ -5,9 +5,8 @@
 [![Medium Badge](https://img.shields.io/badge/Muhammed%20Esad%20C%C3%B6mert-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@muhammedesadcomert "Follow on Medium")
 
 I'm;
-- working as Android Developer Intern at Mobillium,
 - currently computer engineering student at Konya Technical University,
-- currently learning [Flutter](https://flutter.dev/).
+- currently learning [Flutter](https://flutter.dev/) & [Jetpack Compose](https://developer.android.com/jetpack/compose).
 
 ## 🛠 Tech Stack
 
