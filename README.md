@@ -25,9 +25,3 @@ I'm;
 ## 📈 Github Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedesadcomert&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📚 My Latest Medium Articles
-
-<a href="https://medium.com/@muhammedesadcomert">
-  <img src="https://github-readme-medium.vercel.app/?username=muhammedesadcomert&limit=3" />
-</a>
