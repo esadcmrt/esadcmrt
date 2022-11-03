@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/Muhammed%20Esad%20C%C3%B6mert-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@muhammedesadcomert "Follow on Medium")
 
 I'm;
-- currently computer engineering student at Konya Technical University,
+- currently working as Android Trainee at [Mobillium](https://www.mobillium.com/),
 - currently learning [Flutter](https://flutter.dev/) & [Jetpack Compose](https://developer.android.com/jetpack/compose).
 
 ## 🛠 Tech Stack
@@ -25,3 +25,9 @@ I'm;
 ## 📈 Github Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedesadcomert&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📚 My Latest Medium Articles
+
+<a href="https://medium.com/@muhammedesadcomert">
+  <img src="https://github-readme-medium.vercel.app/?username=muhammedesadcomert&limit=3&bg=222f2e" />
+</a>
