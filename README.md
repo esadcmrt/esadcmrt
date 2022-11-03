@@ -29,5 +29,5 @@ I'm;
 ## 📚 My Latest Medium Articles
 
 <a href="https://medium.com/@muhammedesadcomert">
-  <img src="https://github-readme-medium.vercel.app/?username=muhammedesadcomert&limit=3&bg=222f2e" />
+  <img src="https://github-readme-medium.vercel.app/?username=muhammedesadcomert&limit=3" />
 </a>
