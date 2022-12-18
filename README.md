@@ -1,4 +1,4 @@
-## 👋 Hi there!
+## Hi there! 👋
 
 [![Email Badge](https://img.shields.io/badge/esadcmrt@gmail.com-c71610?style=flat-square&logo=gmail&logoColor=white)](mailto:esadcmrt@gmail.com "Connect by Email")
 [![Linkedin Badge](https://img.shields.io/badge/Muhammed%20Esad%20C%C3%B6mert-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedesadcomert/ "Connect on Linkedin")
@@ -8,7 +8,7 @@ I'm;
 - an Android developer from Turkey,
 - currently learning [Flutter](https://flutter.dev/) & [Jetpack Compose](https://developer.android.com/jetpack/compose).
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&style=flat-square&logo=java&logoColor=white)
@@ -22,7 +22,7 @@ I'm;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&style=flat-square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📈 Github Stats
+## 🔥 Github Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedesadcomert&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
