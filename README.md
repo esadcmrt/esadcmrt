@@ -30,6 +30,6 @@ I'm;
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammedesadcomert&theme=dracula&repo=Bored)](https://github.com/muhammedesadcomert/Bored) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammedesadcomert&theme=dracula&repo=FastFood)](https://github.com/muhammedesadcomert/FastFood)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammedesadcomert&theme=dracula&repo=Bored)](https://github.com/muhammedesadcomert/Bored) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammedesadcomert&theme=dracula&repo=FastFood)](https://github.com/muhammedesadcomert/FastFood)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammedesadcomert&theme=dracula&repo=NotesApp)](https://github.com/muhammedesadcomert/NotesApp) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammedesadcomert&theme=dracula&repo=eCommerceApp)](https://github.com/muhammedesadcomert/eCommerceApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammedesadcomert&theme=dracula&repo=NotesApp)](https://github.com/muhammedesadcomert/NotesApp) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammedesadcomert&theme=dracula&repo=eCommerceApp)](https://github.com/muhammedesadcomert/eCommerceApp)
