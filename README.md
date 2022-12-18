@@ -25,3 +25,5 @@ I'm;
 ## 📈 Github Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedesadcomert&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammedesadcomert&theme=dark&border=FFA500&fire=FC2E20&sideNums=7F00FF&mode=weekly)](https://git.io/streak-stats)
