@@ -27,9 +27,3 @@ I'm;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&&style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&&style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&&style=flat-square&logo=swagger&logoColor=black)
-
-## 🔥 Github Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedesadcomert&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammedesadcomert&theme=dark&border=FFA500&fire=FC2E20&sideNums=7F00FF&mode=weekly)](https://git.io/streak-stats)
